@@ -29,7 +29,8 @@
     ]
   },
   "devDependencies": {
-    "jest": "^24.9.0",
-    "@testing-library/react": "^9.3.0"
+    "@testing-library/jest-dom": "^4.1.0",
+    "@testing-library/react": "^9.3.0",
+    "jest": "^24.9.0"
   }
 }
